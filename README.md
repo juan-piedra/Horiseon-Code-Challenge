@@ -9,6 +9,6 @@ Grouped identical CSS styling selectors to consolidate code
 ## App Image
 
 ## Live URL
-
+https://juan-piedra.github.io/Horiseon-Code-Challenge/
 ## Author
 Juan Piedra
